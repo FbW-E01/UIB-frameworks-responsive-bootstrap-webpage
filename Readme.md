@@ -14,6 +14,6 @@ Create the webpage shown below in the reference image using **only** Bootstrap -
 
 - Notice the layout differences in the mobile version by following the link below
 
-- Try and make your webpage as close as possible to the reference
+- Try and make your webpage as close to the reference as possible
 
 [Live Version](https://hsnakk.github.io/UIB_Framework_Bootstrap_Exercise-1/)
